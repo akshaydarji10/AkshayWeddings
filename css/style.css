@@ -879,6 +879,7 @@ button:focus{
     border-top: 3px solid #263d7d;
     border-bottom: 3px solid #263d7d;
     position: relative;
+	min-height: 467px;
 }
 .serviceBox:before{
     content: "";
@@ -1074,43 +1075,3 @@ select.form-control:not([size]):not([multiple]){
     margin-bottom: 20px;
     position: relative;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
